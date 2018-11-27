@@ -1,0 +1,45 @@
+# 机器学习常用名词
+- 机器学习: machine learning
+- 数据集: data set
+- 示例: instance
+- 样本: sample
+- 属性: attribute
+- 特征: feature
+- 属性值: attribute value
+- 属性空间: attribute space
+- 样本空间: sample value
+- 特征向量: feature vector
+- 维数: dimensionality
+- 训练: training
+- 训练数据: training data
+- 训练样本: training sample
+- 训练集: training set
+- 假设: bypothesis
+- 真想/真实: ground-truth
+- 学习器: learner
+- 预测: prediction
+- 样例: example
+- 标记: label
+- 标记空间: label space
+- 分类: classification
+- 回归: regression
+- 二分类: binary classification
+- 正类: positive class
+- 反类: negative class
+- 多分类: multi-class classification
+- 测试: testing
+- 测试样本: testing sample
+- 聚类: clustering
+- 簇: cluster
+- 监督学习: supervised learning
+- 非监督学习: unsupervised learning
+- 泛化: generalization
+- 分布: distribution
+- 独立同分布: independent and identically distributed(iid)
+- 归纳: induction
+- 演绎: deduction
+- 特化: specialization
+- 归纳学习: inductive learning
+- 概念: concept
+- 版本空间: version space
+- 归纳偏好: inductive bias

@@ -43,3 +43,7 @@
 - 概念: concept
 - 版本空间: version space
 - 归纳偏好: inductive bias
+- 监督学习: supervise learning
+- 非监督学习: unsupervise learning
+- 回归问题: regression problem
+- 分类问题: classification problem
